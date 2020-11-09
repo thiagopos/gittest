@@ -7,10 +7,11 @@
 <title>Git Test</title>
 </head>
 <body>
-<h1>Eclipse & Github</h1>
+<h1>Eclipse e Github</h1>
 <p>Integration test, using a Java web-app created in Eclipse and version controlled with GIT/github.</p>
 <button>Teste de PULL</button>
-
 <button>E pave ou pra come? d</button>
+<button>Botão super diferente do botão do Thomas</button>
+
 </body>
 </html>

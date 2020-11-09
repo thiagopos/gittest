@@ -10,5 +10,6 @@
 <h1>Eclipse & Github</h1>
 <p>Integration test, using a Java web-app created in Eclipse and version controlled with GIT/github.</p>
 <button>Teste de PULL</button>
+<button>Botão super diferente do botão do Thomas</button>
 </body>
 </html>

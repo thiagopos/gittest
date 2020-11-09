@@ -9,8 +9,6 @@
 <body>
 <h1>Eclipse & Github</h1>
 <p>Integration test, using a Java web-app created in Eclipse and version controlled with GIT/github.</p>
-<button>TEST BUTTON 333333333</button>
-<button>TEST BUTTON 333333333</button>
-<button>TEST BUTTON 333333333</button>
+<button>Teste de PULL</button>
 </body>
 </html>
